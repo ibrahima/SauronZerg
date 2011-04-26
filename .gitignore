@@ -3,4 +3,4 @@
 *.jar
 .dropbox
 workspace.xml
-
+!lib/*.jar
