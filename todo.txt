@@ -1,0 +1,23 @@
+Macro better
+Don't make workers or zerglings if you're not on track for the build (i.e. hydra den by 24ish)
+Don't mine as much gas at first, wait a little.
+
+Apparently sometimes it loses count of workers when they die? O.o
+Actually handle sparky probes, they suck.
+Keep track of when builders die O_O
+    Need to have it actually do something.
+Double building perhaps
+line 633 ->1019
+340
+The army WAITING state is retarded (runs past enemies or sits around doing nothing)
+Cut back on zerglings unless you see early pressure
+
+Still some weirdness with gas
+Use zerglings for scouting.
+
+Alternate between building army and building drones
+
+Pull back overlords when you see corsairs
+    Get a spire?
+
+Pull back defending zerglings if the overlord dies.

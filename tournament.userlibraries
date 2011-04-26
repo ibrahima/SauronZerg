@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="C:/Users/Ibrahim/Dropbox/SCAI/tournament1/lib/protobuf.jar" />
+    <archive path="C:/Users/Ibrahim/Dropbox/SCAI/tournament1/lib/log4j-1.2.15.jar" />
+    <archive path="C:/Users/Ibrahim/Dropbox/SCAI/tournament1/lib/proxy.jar" />
+    <archive path="C:/Users/Ibrahim/Dropbox/SCAI/tournament1/lib/JNative.jar" />
+    <archive path="C:/Users/Ibrahim/Dropbox/SCAI/tournament1/lib/junit-4.7.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/protobuf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jython.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/proxy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JNative.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/proxy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/proxy.jar!/" />
+    </SOURCES>
+  </library>
+</component>
